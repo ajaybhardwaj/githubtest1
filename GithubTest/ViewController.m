@@ -21,8 +21,14 @@
     // Commit 1
     NSLog(@"Commit 1 here");
     
+
+    // Commit 3
+    NSLog(@"Commit 3 here");
+    
     // Commit 2
     NSLog(@"Commit 2 here");
+    
+
 }
 
 - (void)didReceiveMemoryWarning {
